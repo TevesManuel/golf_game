@@ -1,10 +1,6 @@
-Estructuras de nivel
-TIPO [X, Y, SCALE_W]
-TIPO [X, Y, SCALE_W, SCALE_H]
-TIPO [X, Y, SCALE_W, SCALE_W, SCALE_H, COLOR_R, COLOR_G, COLOR_B]
+# Golf game
+## Is a very simple golf game where you can build your own levels
 
-Project maded full in WSL, compilation for windows need set 
-``` bash
-export SFML_INCLUDE_DIR=/winLibs/SFML/include/
-export SFML_LIBS_DIR=/winLibs/SFML/lib
-```
+![Screnshott of the main menu](Docs/Images/MainMenu.png)
+![Screnshott playing one level](Docs/Images/InGame.png)
+![Screnshott building your own level](Docs/Images/BuildLevel.png)
