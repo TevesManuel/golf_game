@@ -1,0 +1,8 @@
+PROJECT_NAME "LEVEL 0"
+AUTHOR_NAME  "Manuel Teves"
+Wall[100, 250]
+Wall[150, 250]
+Wall[200, 250]
+Wall[250, 250]
+Ball[200, 400]
+Goal[186, 205]

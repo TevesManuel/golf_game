@@ -1,0 +1,12 @@
+PROJECT_NAME "CUSTOM COPY"
+AUTHOR_NAME  "Manuel Teves"
+Wall[101, 221]
+Wall[100, 270]
+Wall[103, 319]
+Wall[277, 475]
+Wall[270, 316]
+Wall[245, 122]
+Wall[66, 99]
+Wall[68, 472]
+Ball[199, 322]
+Goal[186, 205]

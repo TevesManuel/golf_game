@@ -1,0 +1,6 @@
+PROJECT_NAME "cualquiera"
+AUTHOR_NAME "nivel2"
+Wall[243, 181]
+Water[200, 300, 100]
+Ball[200, 500]
+Goal[100, 100]
